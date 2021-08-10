@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sigrsig
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React Redux
+- 👋 Hi, I’m @Sigrsig (Sigga)
+- :flags: I am from Iceland Living in Germany
+- :sparkling_heart: I’m interested in frontend development
+- 🌱 I’m currently learning React Redux and GraphQL
 - 📫 How to reach me www.siggagreen.com
 
 <!---
