@@ -2,7 +2,7 @@
 - :flags: I am from Iceland Living in Germany
 - :sparkling_heart: I’m interested in frontend development
 - 🌱 I am a junior front-end engineer
-- 📫 How to reach me www.siggagreen.com
+- 📫 Reach me at www.siggagreen.com
 
 <!---
 Sigrsig/Sigrsig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
