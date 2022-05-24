@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sigrsig (Sigga)
 - :flags: I am from Iceland Living in Germany
-- 🌱 I am a junior front-end engineer
+- 🌱 I am a front-end engineer
 - 📫 Reach me at www.siggagreen.com
 
 <!---
