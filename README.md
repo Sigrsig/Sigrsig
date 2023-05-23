@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sigrsig (Sigga)
+- 👋 Hi, I’m Sigga (@Sigrsig)
 - :flags: I am from Iceland Living in Germany
 - 🌱 I am a front-end engineer
 - 📫 Reach me at www.siggagreen.com
